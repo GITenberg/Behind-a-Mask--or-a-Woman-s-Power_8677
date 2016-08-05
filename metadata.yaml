@@ -1,0 +1,47 @@
+_repo: Behind-a-Mask--or-a-Woman-s-Power_8677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: "Behind a Mask, or A Woman's Power is a novella written by American author\
+  \ Louisa May Alcott. The novella was originally published in 1866 under the pseudonym\
+  \ of A. M. Barnard in The Flag of Our Union. Set in Victorian era Britain, the story\
+  \ follows Jean Muir, the deceitful governess of the wealthy Coventry family. With\
+  \ expert manipulation, Jean Muir obtains the love, respect, and eventually the fortune\
+  \ of the Coventry family.\nSince it was republished by Madeleine B. Stern in 1975,\
+  \ the novel has become important in critical reinterpretation of Alcott's corpus\
+  \ of works and literary importance. Many literary critics treat the novel; for example,\
+  \ one critic treated the novel as a version of the \"Beauty and the Beast\" trope,\
+  \ while others provide feminist critiques of the narrative. Alcott's treatment of\
+  \ themes like acting, social class, and the struggle for agency all inform these\
+  \ larger discussions by critics.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8677'
+  wikidata: Q2893891
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Women -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sex role -- Fiction'
+- GITenberg
+title: Behind a Mask; or, a Woman's Power
+url: http://www.gutenberg.org/ebooks/8677
+wikipedia:
+- https://fr.wikipedia.org/wiki/Behind_a_Mask
+- https://en.wikipedia.org/wiki/Behind_a_Mask
