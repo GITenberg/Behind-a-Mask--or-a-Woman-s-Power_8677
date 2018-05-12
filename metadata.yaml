@@ -1,5 +1,8 @@
 _repo: Behind-a-Mask--or-a-Woman-s-Power_8677
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -24,6 +27,8 @@ description: "Behind a Mask, or A Woman's Power is a novella written by American
   \ while others provide feminist critiques of the narrative. Alcott's treatment of\
   \ themes like acting, social class, and the struggle for agency all inform these\
   \ larger discussions by critics.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8677#Behind-a-Mask--or-a-Woman-s-Power
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
